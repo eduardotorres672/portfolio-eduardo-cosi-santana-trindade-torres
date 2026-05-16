@@ -4,16 +4,16 @@
 ---
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Cosi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cosi-3935a7344)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardocosi1810@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
 [![Portfólio](https://img.shields.io/badge/Repositório--Portfólio-red?style=for-the-badge&logo=github)](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git)
 
 ---
 ### 👨‍💻 Sobre
-Atualmente cursando Análise e Desenvolvimento de Sistemas na **UNICID** e formado como Técnico em ADS pela **Alura**. Desenvolvedor focado na resolução de problemas complexos através de engenharia de software, com sólida experiência em Desenvolvimento Full Stack, Engenharia de Prompt e arquitetura de sistemas seguros e responsivos.
+Estudante de Análise e Desenvolvimento de Sistemas na **UNICID** (previsão de conclusão em 2027) e formado como Técnico em ADS pela **Alura**. Sou focado no desenvolvimento de software e análise de dados, com forte interesse em análise de performance de produtos, métricas e tomada de decisão baseada em dados. Busco oportunidades para aplicar meu raciocínio analítico e conhecimentos técnicos para contribuir com insights relevantes.
 
-* **Habilidades Técnicas:** React 19, TypeScript 5, Tailwind CSS v4, Node.js, Firebase (Auth/Firestore), Python, Java, MySQL e Bubble.io.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico, adaptabilidade técnica e foco em resolução de problemas.
-* **Experiência Relevante:** Atuo como Auxiliar Administrativo na *AS Brindes*, aplicando raciocínio lógico estruturado para padronização de fluxos operacionais, automação de relatórios via Excel avançado (Tabelas Dinâmicas) e governança analítica de inventários.
+* **Hard Skills:** Excel (Intermediário/Avançado), SQL (Básico — consultas e filtragem), Python (Básico/Intermediário), Análise e interpretação de dados, Ferramentas de BI (noções de dashboards), Inteligência Artificial (Básico), Git e controle de versão, Lógica de programação e Desenvolvimento Web.
+* **Soft Skills:** Raciocínio analítico, curiosidade, autonomia, boa comunicação, organização, atenção a detalhes, proatividade e colaboração em equipe.
+* **Idiomas:** Inglês (Fluente — 7 anos na Wizard Idiomas), Espanhol (Intermediário) e Francês (Básico).
 
 ---
 ### 🛠 Minhas Ferramentas Favoritas
@@ -50,6 +50,17 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na **UNICID** e forma
 | **4. Batalha de Modelos (XML)** | Estudo comparativo e empírico de consumo de tokens e fidelidade de layout entre LLMs utilizando marcações estruturadas em XML. | [Ver Relatório](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
 | **5. Geração de Imagens & Personas** | Framework de engenharia de prompt baseado em restrições e contextos isolados para garantia de consistência semântica e estética. | [Ver Framework](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
 | **6. Manifesto de Engenharia Ética** | Artigo de governança sobre a fronteira entre estudo e plágio em IA, com foco em técnicas de proteção contra raspagem indesejada. | [Ler Manifesto](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
+
+---
+### 💼 Experiência Profissional
+
+**Auxiliar Administrativo — AS Brindes** *(Março/2025 - Atual)*
+* Gestão e controle sistemático de estoque, assegurando a acuracidade dos registros e a integridade dos dados de inventário.
+* Registro e monitoramento de movimentação de produtos, controlando entradas, saídas e rastreabilidade de mercadorias.
+* Suporte operacional a processos administrativos, contribuindo para a eficiência dos fluxos internos e cumprimento de prazos.
+* Estruturação e manutenção de bases de dados e registros organizacionais, garantindo a confiabilidade e acessibilidade das informações.
+* Elaboração e atualização de planilhas de controle operacional utilizando Excel para acompanhamento de indicadores e relatórios internos.
+* Comunicação e alinhamento com equipes internas para resolução de pendências e garantia da continuidade operacional.
 
 ---
 ### 🏗 Estrutura do Repositório
