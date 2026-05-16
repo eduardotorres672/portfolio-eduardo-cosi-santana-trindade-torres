@@ -3,7 +3,7 @@
 
 ---
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cosi-3935a7344)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Cosi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cosi-3935a7344)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardocosi1810@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Repositório--Portfólio-red?style=for-the-badge&logo=github)](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git)
 
