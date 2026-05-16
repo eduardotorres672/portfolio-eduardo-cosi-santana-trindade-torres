@@ -1,0 +1,21 @@
+<tarefa>
+<objetivo>Criar uma página HTML5 única com CSS3 interno (single page).</objetivo>
+<tema> Usuarios de jogos competitivos </tema>
+<diretrizes_design>
+<layout>Responsivo e minimalista.</layout>
+<paleta_cores> preto, vermelho e branco </paleta_cores>
+<tipografia>Sans-serif para títulos, Serif para corpo.</tipografia>
+</diretrizes_design>
+<obrigatoriedades técnicas>
+<item>Menu de navegação funcional (âncoras).</item>
+<item>Seção de portfólio ou galeria.</item>
+<item>Rodapé com informações de contato simuladas.</item>
+<item> Formulário de cadrasto </item>
+<item> Quantidade de jogadores por país <item>
+<item> Paises mais ativos competitivamente <item>
+<item> Quais jogos mais jogados <item>
+</obrigatoriedades técnicas>
+<metrica_obrigatoria>
+Ao final da resposta, informe uma estimativa de quantos tokens foram gerados para este código.
+</metrica_obrigatoria>
+</tarefa>
