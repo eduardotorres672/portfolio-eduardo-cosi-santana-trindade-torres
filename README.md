@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Cosi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cosi-3935a7344)
 [![Gmail](https://img.shields.io/badge/Gmail-eduardocosi1810%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardocosi1810@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Repositório-Portfólio-red?style=for-the-badge&logo=github)](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git)
+[![Repositório Portfólio](https://img.shields.io/badge/Repositório-Portfólio-red?style=for-the-badge&logo=github)](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git)
 
 </div>
 
@@ -42,7 +42,7 @@ Minha filosofia de engenharia une lógica de programação rigorosa com uma refl
 
 ---
 
-## 📂 Ecossistema de Projetos (Os 6 Pilares)
+## 📂 Ecossistema de Projetos (Os 6 Pilares Funcionais)
 
 Abaixo estão detalhados os 6 projetos e frentes de engenharia que consolidam a minha evolução técnica, unindo aplicações em produção com investigações avançadas em IA e arquitetura:
 
@@ -50,36 +50,44 @@ Abaixo estão detalhados os 6 projetos e frentes de engenharia que consolidam a 
 Uma plataforma web premium e de alta performance para a criação, customização estética e persistência na nuvem de códigos QR dinâmicos.
 * **Mecanismo Técnico:** Desenvolvido com React 19, Tailwind CSS v4 e TypeScript. Utiliza a biblioteca `qr-code-styling` para renderização vetorial refinada e Framer Motion para animações fluidas de profundidade.
 * **Destaques de Engenharia:** Integração com Firebase Auth para controle de sessões e Cloud Firestore para histórico persistente de designs. Inclui recursos avançados de acessibilidade como controle e ajuste de interface através de comandos de voz nativos (Web Speech API).
-* **🔗 Links Operacionais:**
-  * [Aceder à Aplicação Web (Google AI Studio)](https://ai.studio/apps/b44818c6-d548-4993-b636-1955fe818478)
-  * [Repositório do Código Fonte (GitHub)](https://github.com/eduardotorres672/Gerador-de-Qr-code.git)
+* **🔗 Links de Acesso:**
+  * [🚀 Executar App em Produção (Google AI Studio)](https://ai.studio/apps/b44818c6-d548-4993-b636-1955fe818478)
+  * [📦 Código Fonte no GitHub](https://github.com/eduardotorres672/Gerador-de-Qr-code.git)
 
 ### 🔒 2. Sistema de Gestão e Auditoria de Orçamentos (Bubble.io)
 Arquitetura lógica e transacional voltada para ambientes corporativos que demandam controle estrito de fluxos financeiros e conformidade.
 * **Mecanismo Técnico:** Modelação relacional normalizada com entidades desacopladas (`Budget`, `BudgetActivityLog`, `BudgetItem`) construída através do motor do Bubble.io.
 * **Destaques de Engenharia:** Proteção contra vazamento de payloads e interceptação de tráfego de rede no lado do cliente através de regras de privacidade em nível de servidor (*Server-Side Privacy Rules*), acionadas sob a diretiva `Creator is Current User`. Implementação de históricos imutáveis de atividades para auditoria fiscal de aprovações e rejeições via Popups dinâmicos.
+* **🔗 Links de Acesso:**
+  * [📦 Documentação da Arquitetura do Sistema](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git)
 
 ### 🧠 3. Classificador Inteligente e Mitigação de Viés (Teachable Machine)
 Estudo prático de visão computacional voltado para a análise de vieses algorítmicos e ética em modelos preditivos comerciais.
 * **Mecanismo Técnico:** Treinamento de redes neurais convolucionais utilizando a infraestrutura do Teachable Machine da Google.
 * **Destaques de Engenharia:** Desenvolvimento de um pipeline conceitual *Human-in-the-Loop* focado na curadoria, auditoria e balanceamento de datasets assimétricos pré-treino, mitigando a ocorrência de falsos positivos/negativos e garantindo a diversidade de representação estatística da realidade real.
-* **🔗 Links Operacionais:**
-  * [Testar Modelo de Inferência (Teachable Machine)](https://teachablemachine.withgoogle.com/models/ZTuOxbPfz/)
+* **🔗 Links de Acesso:**
+  * [🔮 Testar Modelo de Inferência (Teachable Machine)](https://teachablemachine.withgoogle.com/models/ZTuOxbPfz/)
 
 ### 📝 4. Engenharia de Prompt Avançada: Batalha de Modelos (XML)
 Investigação empírica com o objetivo de avaliar a capacidade de interpretação estruturada e consumo de tokens em diferentes Large Language Models (LLMs).
 * **Mecanismo Técnico:** Construção de prompts avançados e isolados utilizando tags estruturadas em XML para forçar os modelos a gerarem páginas HTML5 Single Page estritas.
 * **Destaques de Engenharia:** Análise comparativa profunda documentando comportamento, precisão do CSS interno, bugs de sintaxe e volumetria de tokens gastos entre as principais ferramentas do mercado (ChatGPT, Gemini, Claude, Qwen, DeepSeek, Grok, Maritaca), com destaque para o desempenho do Claude na interpretação de marcações complexas.
+* **🔗 Links de Acesso:**
+  * [📄 Visualizar Relatório de Pesquisa em PDF](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git)
 
 ### 🎨 5. Engenharia de Prompt Aplicada: Geração de Imagens & Personas
 Desenvolvimento de frameworks estruturados de contextualização para geração de ativos digitais e escrita criativa orientada a personas históricas.
 * **Mecanismo Técnico:** Criação de pipelines de prompts divididos estritamente em *Persona, Contexto, Instrução, Restrições e Formato de Saída*.
-* **Destaques de Engenharia:** Refinamento iterativo de imagens conceituais complexas (ex: Pintura barroca de um astronauta em Marte) e engenharia de texto aplicada para simular negociações diplomáticas complexas com a Coroa Portuguesa colonial, testando os limites de consistência estética e semântica das IAs generativas.
+* **Destaques de Engenharia:** Refinamento iterativo de imagens conceituais complexas (ex: Pintura barroca de um astronauta em Marte) e engenharia de texto aplicada para simular negociações diplomáticas complexas com a Coroa Portuguesa colonial, testando os limites de segurança semântica e consistência estética das IAs generativas.
+* **🔗 Links de Acesso:**
+  * [📄 Visualizar Framework de Prompts em PDF](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git)
 
 ### 📐 6. Engenharia de Software Ética e Manifesto de Propriedade Intelectual
 Desenvolvimento de uma metodologia de governança para proteger o trabalho do desenvolvedor humano e regular a automação gerada por Inteligência Artificial.
-* **Mecanismo Técnico:** Criação de um framework fundamentado em 4 diretrizes principais para repositórios modernos.
-* **Destaques de Engenharia:** Definição do limiar exato onde a engenharia reversa assistida por IA deixa de ser estudo e se torna plágio (a transição do *entender* para o *copiar*). Proposta de modelos que envolvem o registro antecipado de autoria para alimentar indexadores de *scrapers*, preservação do toque humano em UX/UI, divisão inteligente de tarefas (IA focada em boilerplates/testes e Humanos focados em inovação) e politização do lucro justo de royalties de código.
+* **Mecanismo Técnico:** Criação de um framework fundamentado em 4 diretrizes principais para repositórios modernos (Registro de Autoria, Toque Humano, Divisão de Tarefas e Lucro Justo).
+* **Destaques de Engenharia:** Definição do limiar exato onde a engenharia reversa assistida por IA deixa de ser estudo e se torna plágio (a transição do *entender* para o *copiar*), fornecendo diretrizes para que criadores assinem os seus códigos contra scraping preditivo indesejado.
+* **🔗 Links de Acesso:**
+  * [📄 Ler Manifesto de Governança Ética](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git)
 
 ---
 
