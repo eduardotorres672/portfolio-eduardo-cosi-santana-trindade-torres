@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Cosi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cosi-3935a7344)
 [![Gmail](https://img.shields.io/badge/Gmail-eduardocosi1810%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardocosi1810@gmail.com)
-[![Localização](https://img.shields.io/badge/📍-São%20Paulo%2C%20SP-red?style=for-the-badge)](https://maps.app.goo.gl/sPz1)
+[![Portfolio](https://img.shields.io/badge/Repositório-Portfólio-red?style=for-the-badge&logo=github)](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git)
 
 </div>
 
@@ -18,52 +18,56 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou **Eduardo Cosi**, estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID** e técnico formado pela **Alura**. Atuo no desenvolvimento de software focado no ecossistema Full Stack, Engenharia de Prompt aplicada e arquitetura de sistemas seguros.
+Olá! Sou **Eduardo Cosi**, estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID** e técnico formado pela **Alura**. Atuo no desenvolvimento de software focado no ecossistema Full Stack, Engenharia de Prompt aplicada e arquitetura de sistemas seguros e responsivos.
 
-Minha filosofia de engenharia une lógica sólida com reflexão crítica sobre a autonomia tecnológica. Trago também uma sólida bagagem administrativa focada em otimização de processos, análise transacional e governança de dados.
+Minha filosofia de engenharia une lógica de programação rigorosa com uma reflexão crítica sobre governança tecnológica e autonomia da inteligência artificial. Além disso, possuo uma sólida bagagem administrativa focada em otimização de processos operacionais, análise transacional e integridade de base de dados.
 
-> *"Focado em transformar lógica em soluções robustas e o aprendizado constante de IA em inovação responsável."*
+> *"Focado em transformar lógica abstrata em soluções de software robustas e o aprendizado constante em inovação ética."*
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### **Desenvolvimento & Arquitetura**
-* **Frontend:** React 19, TypeScript, Tailwind CSS v4, HTML5, CSS3, Vite
-* **Backend & Cloud:** Node.js, Express, Firebase (Auth, Firestore, Storage)
-* **Plataformas No-Code:** Bubble.io (Server-Side Security & Workflows)
+### **Desenvolvimento Web & Cloud**
+* **Frontend:** React 19, TypeScript 5, Tailwind CSS v4, HTML5, CSS3, Vite
+* **Backend & Cloud:** Node.js, Express, Firebase (Auth, Cloud Firestore, Storage)
+* **Plataformas No-Code:** Bubble.io (Server-Side Security & Engenharia de Workflows)
 * **Bancos de Dados & Controle:** MySQL, Cloud Firestore, Git, GitHub
 
-### **Línguas**
+### **Proficiência Linguística**
 * **Português:** Nativo
-* **Inglês:** Fluente (7 anos — Wizard)
+* **Inglês:** Fluente (7 anos de formação contínua — Wizard)
 * **Espanhol:** Intermediário
 * **Francês:** Básico
 
 ---
 
-## 📂 Ecossistema de Projetos Destacados
+## 📂 Ecossistema de Projetos e Engenharia
+
+Abaixo estão listados os projetos desenvolvidos, integrando os ambientes de produção funcionais e as especificações de arquitetura:
 
 ### 🚀 1. Sabado Gerador de QR Virtual (Full-Stack & IA)
-Aplicação premium para geração e gerenciamento customizado de QR Codes estruturada com recursos avançados de acessibilidade.
-* **Stack:** React 19, Tailwind CSS v4, TypeScript, Vite, Firebase (Auth/Firestore/Storage), `qr-code-styling`, Framer Motion.
-* **Destaques Técnicos:** Controle de interface por comandos de voz (Web Speech API), persistência de histórico em tempo real e isolamento completo de banco de dados *Server-Side* via `firestore.rules`.
-* **🔗 Links:** [Código Fonte](https://github.com/eduardotorres672/Gerador-de-Qr-code.git) | [Aplicação Web App](https://ai.studio/apps/b44818c6-d548-4993-b636-1955fe818478)
+Uma plataforma web avançada e de alta performance para a criação, customização estética e persistência na nuvem de códigos QR dinâmicos.
+* **Mecanismo Técnico:** Desenvolvido com React 19, Tailwind CSS v4 e TypeScript. Utiliza a biblioteca `qr-code-styling` para renderização vetorial refinada.
+* **Destaques de Engenharia:** Integração com Firebase Auth para controle de sessões e Cloud Firestore para histórico persistente de designs. Inclui recursos de acessibilidade como controle e ajuste de interface através de comandos de voz nativos (Web Speech API).
+* **🔗 Links Operacionais:** * [Aceder à Aplicação Web (Google AI Studio)](https://ai.studio/apps/b44818c6-d548-4993-b636-1955fe818478)
+  * [Repositório do Código Fonte (GitHub)](https://github.com/eduardotorres672/Gerador-de-Qr-code.git)
 
-### 🔒 2. Gestão e Auditoria de Orçamentos (Bubble.io Engine)
-Plataforma desenvolvida para a automatização de fluxos financeiros, com foco em imutabilidade e governança corporativa de dados.
-* **Conceitos Aplicados:** Engenharia lógica baseada em transições de estados atômicas e segurança de dados do servidor (*Server-Side Privacy Rules*).
-* **Destaques Técnicos:** Proteção contra vazamentos de API através da diretiva rígida `Creator is Current User`, histórico imutável de logs e controle assíncrono de interface contra cliques duplos em rotinas comerciais.
+### 🧠 2. Classificador Inteligente e Mitigação de Viés (Teachable Machine)
+Estudo prático de visão computacional voltado para a análise de vieses algorítmicos em modelos preditivos industriais.
+* **Mecanismo Técnico:** Treinamento de redes neurais convolucionais utilizando a infraestrutura do Teachable Machine da Google.
+* **Destaques de Engenharia:** Desenvolvimento de um pipeline conceitual *Human-in-the-Loop* voltado para a curadoria, auditoria e balanceamento de datasets assétricos antes da fase de compilação dos pesos, mitigando falsos positivos e garantindo diversidade de representação estatística.
+* **🔗 Links Operacionais:**
+  * [Testar Modelo de Inferência (Teachable Machine)](https://teachablemachine.withgoogle.com/models/ZTuOxbPfz/)
 
-### 🧠 3. Modelo Preditivo Contra Vieses (Teachable Machine)
-Estudo de caso prático focado na curadoria estatística e ética para sistemas baseados em inteligência artificial.
-* **Conceitos Aplicados:** Mitigação de viés algorítmico (*Algorithmic Bias*), balanceamento e diversificação de conjuntos de dados.
-* **Destaques Técnicos:** Arquitetura de pipeline *Human-in-the-Loop* aplicada ao pré-treino para neutralização de assimetrias matemáticas e combate a falsos positivos em modelos preditivos.
-* **🔗 Link:** [Acessar App no Teachable Machine](https://teachablemachine.withgoogle.com/models/ZTuOxbPfz/)
+### 🔒 3. Sistema de Gestão e Auditoria de Orçamentos (Bubble.io Engine)
+Arquitetura lógica e transacional voltada para ambientes corporativos que demandam controle estrito de fluxos financeiros.
+* **Mecanismo Técnico:** Desenvolvido através do motor No-Code do Bubble.io com lógica estrita de relacionamentos normalizados.
+* **Destaques de Engenharia:** Proteção nativa contra vazamento de payloads e interceptação de tráfego de rede no lado do cliente através de regras de privacidade em nível de servidor (*Server-Side Privacy Rules*), acionadas sob a diretiva `Creator is Current User`. Implementação de históricos imutáveis de atividades (*BudgetActivityLog*) para auditoria fiscal de aprovações e rejeições.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas do GitHub
 
 <div align="center">
 
@@ -80,31 +84,31 @@ Estudo de caso prático focado na curadoria estatística e ética para sistemas 
 
 ## 💼 Experiência Profissional
 
-**Auxiliar Administrativo — AS Brindes** *(Atual)*
-* Gerenciamento de inventário semanal apoiado em análise preditiva de dados de entrada e saída.
-* Consolidação de métricas operacionais complexas utilizando Microsoft Excel e Tabelas Dinâmicas.
-* Padronização de arquiteturas de dados internas para otimização do suporte à tomada de decisões estratégicas.
-* Monitoramento preventivo de divergências operacionais por meio do registro estruturado de mercadorias.
+**Auxiliar Administrativo — AS Brindes** *(Período Atual)*
+* Controle de inventário semanal apoiado em análise estocástica e consolidação de dados de entrada/saída.
+* Análise e tratamento de relatórios operacionais complexos utilizando Microsoft Excel avançado e Tabelas Dinâmicas.
+* Padronização de processos analíticos e documentação corporativa para suporte estratégico à tomada de decisão de alta gerência.
+* Monitoramento e registro estruturado de divergências e movimentação logística de insumos industriais.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
 * **Graduação:** Análise e Desenvolvimento de Sistemas — **UNICID** *(Em andamento)*
-* **Formação Técnica:** Técnico em ADS — **Alura** *(Concluído)*
+* **Formação Profissionalizante:** Técnico em ADS — **Alura** *(Concluído)*
 
 ---
 
-## ✉️ Contato
+## ✉️ Canais de Contacto
 
 <div align="center">
 
-| Canal | Informações de Acesso |
+| Canal de Comunicação | Endereço / Link de Acesso |
 |---|---|
-| **E-mail** | [eduardocosi1810@gmail.com](mailto:eduardocosi1810@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/eduardo-cosi-3935a7344](https://www.linkedin.com/in/eduardo-cosi-3935a7344) |
-| **Telefone** | (11) 96752-1239 |
-| **Cidade** | São Paulo — SP (Guaianazes) |
+| **E-mail Profissional** | [eduardocosi1810@gmail.com](mailto:eduardocosi1810@gmail.com) |
+| **LinkedIn Oficial** | [linkedin.com/in/eduardo-cosi-3935a7344](https://www.linkedin.com/in/eduardo-cosi-3935a7344) |
+| **Contacto Telefónico** | (11) 96752-1239 |
+| **Localização Geográfica** | Guaianazes, São Paulo — SP, Brasil |
 
 </div>
 
