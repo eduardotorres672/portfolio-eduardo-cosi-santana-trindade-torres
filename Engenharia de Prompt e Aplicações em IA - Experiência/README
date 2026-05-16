@@ -1,24 +1,31 @@
-# 🎬 Experiência 01: A Corrida do Prompt
+# Engenharia de Prompt Avançada: Personas, Restrições e Escrita Criativa
 
-## 📝 Descrição do Projeto
-Este projeto documenta a experiência prática "A Corrida do Prompt", cujo objetivo principal é desenvolver habilidades de Engenharia de Instrução (Prompt Engineering) para obter resultados de alta precisão utilizando Modelos de Linguagem (LLMs). O grande desafio foi gerar um texto e uma imagem específicos com um limite estrito de apenas 5 iterações.
+![Engenharia de Prompt](https://img.shields.io/badge/IA-Engenharia%20de%20Prompt-blue.svg?style=for-the-badge)
+![Text-to-Image](https://img.shields.io/badge/Geração-Imagens%20%26%20Texto-orange.svg?style=for-the-badge)
+![Estrutura](https://img.shields.io/badge/Metodologia-Rigorosa-green.svg?style=for-the-badge)
 
-Desenvolvido como parte da disciplina, o projeto aplicou metodologias ativas de avaliação. A cada ciclo de interação com a IA, utilizamos a **Taxonomia de Bloom** para avaliar criticamente as respostas (identificando ausências de contexto e desvios de tom) e a **Taxonomia de Fink** para integrar o aprendizado ao próximo comando, garantindo que o modelo ajustasse sua percepção para atingir o objetivo final.
-
-## 🚀 Tecnologias Utilizadas
-* **Modelos de IA:** Inteligências Artificiais Generativas de Texto e Imagem
-* **Técnicas Aplicadas:** Engenharia de Prompt, Refinamento Iterativo, Restrição de Contexto
-* **Ferramentas de Versionamento:** Git e GitHub
-
-## 📊 Resultados e Aprendizados
-O projeto alcançou os objetivos propostos dentro do limite de tentativas, demonstrando a eficácia da construção lógica de comandos.
-* **Controle de Persona (Texto):** O modelo assumiu a persona de um pirata de 1650 com sucesso. O maior aprendizado foi aplicar restrições rígidas para evitar formatos indesejados (como cartas) e garantir termos comerciais favoráveis na negociação fictícia com o rei (partilha de 60/40).
-* **Evolução Estética (Imagem):** Aprendemos a importância do vocabulário técnico para direcionar a IA. Para chegar ao estilo barroco de um astronauta em Marte, foi necessário evoluir o prompt adicionando palavras-chave como "exagero", "movimento" e "tensão entre opostos", criando o contraste visual necessário.
-
-## 🔧 Como Executar
-1. Clone este repositório em sua máquina local.
-2. Acesse a pasta `engenharia-prompt`.
-3. Abra o arquivo `Engenharia de Prompt - Experiência 01.pdf` para visualizar o registro completo da evolução dos prompts, os comandos exatos utilizados pelo trio e os resultados gerados pela IA.
+Este repositório documenta o desenvolvimento, a iteração e a análise crítica da **Experiência 1** na área de Engenharia de Prompt e Aplicações em Inteligência Artificial. O projeto explora duas vertentes essenciais dos modelos de linguagem generativa: a **Modelação de Imagens Complexas (Text-to-Image)** sob restrições estéticas estritas e a **Escrita Criativa Narrativa** orientada por personas históricas e contextos de alta fidelidade.
 
 ---
-[Voltar ao início](../README.md)
+
+## 🎯 Objetivos Estratégicos
+
+1. **Domínio de Engenharia Estrutural:** Aplicar divisões claras de *Persona*, *Contexto*, *Instrução*, *Restrições* e *Formato de Saída* para blindar as respostas da IA contra alucinações.
+2. **Iteração Incremental:** Demonstrar o refinamento de comandos sequenciais para evoluir outputs simples para resultados altamente complexos e estilizados.
+3. **Role-Playing Avançado (Políticas Nacionais):** Validar a capacidade de geração de texto mantendo o sotaque, a terminologia e o contexto político-económico de uma época específica.
+
+---
+
+## 🖼️ Laboratório 1: Geração de Imagem (Astronauta Barroco em Marte)
+
+O primeiro cenário desafiou os motores de geração visual a fundirem o anacronismo tecnológico de um astronauta em Marte com a complexidade artística, o claro-escuro e a dramaticidade do movimento **Barroco**.
+
+### 🛠️ Estrutura do Prompt Utilizado
+
+```text
+ESTRUTURA DO COMANDO:
+- Persona: Atue como um pintor especialista no estilo barroco.
+- Contexto: Quero uma pintura conceitual no estilo barroco em que tenha um astronauta tocando violoncelo em Marte.
+- Instrução (Tarefa): Faça uma imagem contendo os elementos acima citados.
+- Restrições: Não quero imagens que pareçam fotos, não quero outros estilos de pintura, não quero que contenha outros elementos fora do contexto enviado acima.
+- Formato de Saída: A imagem precisa ser em JPG 1920x1080 com a proporção: 16:9.
