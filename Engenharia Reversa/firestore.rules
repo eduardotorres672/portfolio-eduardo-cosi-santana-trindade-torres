@@ -1,0 +1,37 @@
+{
+  "entities": {
+    "QRCode": {
+      "title": "QR Code",
+      "description": "Represents a generated and saved QR Code with its style settings",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "url": { "type": "string", "description": "The URL or data encoded in the QR" },
+        "name": { "type": "string", "description": "User-assigned name for the QR code" },
+        "userId": { "type": "string", "description": "Owner of the QR code" },
+        "config": {
+          "type": "object",
+          "description": "JSON object containing styling configurations",
+          "properties": {
+            "color1": { "type": "string" },
+            "color2": { "type": "string" },
+            "bgColor": { "type": "string" },
+            "cornerSquareColor": { "type": "string" },
+            "cornerDotColor": { "type": "string" },
+            "dotType": { "type": "string" },
+            "cornerSquareType": { "type": "string" },
+            "cornerDotType": { "type": "string" }
+          }
+        },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["url", "userId", "config", "createdAt"]
+    }
+  },
+  "firestore": {
+    "/qrcodes/{qrcodeId}": {
+      "schema": "QRCode",
+      "description": "Stored QR codes for users"
+    }
+  }
+}

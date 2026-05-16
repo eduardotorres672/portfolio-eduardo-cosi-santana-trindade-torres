@@ -1,0 +1,8 @@
+{
+  "name": "Sabado Gerador de Qr Virtual",
+  "description": "Gerador de QR Code minimalista e funcional com personalização avançada e interface premium.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
