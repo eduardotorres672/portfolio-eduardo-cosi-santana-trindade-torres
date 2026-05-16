@@ -1,4 +1,4 @@
-# batalha de modelos & engenharia de prompt (xml)
+# Experiência 03 - Batalha de Modelos & Engenharia de Prompt (XML)
 
 ![Estudo](https://img.shields.io/badge/Estudo-Engenharia%20de%20Prompt-red.svg?style=for-the-badge)
 ![Estrutura](https://img.shields.io/badge/Formato-XML%20Tags-black.svg?style=for-the-badge)
