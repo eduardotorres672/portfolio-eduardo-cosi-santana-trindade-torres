@@ -1,4 +1,4 @@
-# Sabado Gerador de Qr Virtual
+# Gerador de Qr Virtual
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
