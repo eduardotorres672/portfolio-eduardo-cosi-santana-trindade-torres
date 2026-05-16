@@ -9,50 +9,51 @@
 
 ---
 ### 👨‍💻 Sobre
-Atualmente cursando Análise e Desenvolvimento de Sistemas na **UNICID** e formado como Técnico em ADS pela **Alura**. Sou focado em resolver problemas complexos através de engenharia de software, com forte interesse em Desenvolvimento Full Stack, Engenharia de Prompt e arquitetura de sistemas seguros e responsivos.
+Atualmente cursando Análise e Desenvolvimento de Sistemas na **UNICID** e formado como Técnico em ADS pela **Alura**. Desenvolvedor focado na resolução de problemas complexos através de engenharia de software, com sólida experiência em Desenvolvimento Full Stack, Engenharia de Prompt e arquitetura de sistemas seguros e responsivos.
 
 * **Habilidades Técnicas:** React 19, TypeScript 5, Tailwind CSS v4, Node.js, Firebase (Auth/Firestore), Python, Java, MySQL e Bubble.io.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico e capacidade de análise de dados.
-* **Experiência Relevante:** Atuo como Auxiliar Administrativo na *AS Brindes*, onde aplico lógica estruturada para padronização de processos operacionais, modelação de relatórios complexos via Excel/Tabelas Dinâmicas e governança de inventários.
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico, adaptabilidade técnica e foco em resolução de problemas.
+* **Experiência Relevante:** Atuo como Auxiliar Administrativo na *AS Brindes*, aplicando raciocínio lógico estruturado para padronização de fluxos operacionais, automação de relatórios via Excel avançado (Tabelas Dinâmicas) e governança analítica de inventários.
 
 ---
 ### 🛠 Minhas Ferramentas Favoritas
 #### 💻 Desenvolvimento Frontend & Web
-![React 19](https://img.shields.io/badge/React-19.0.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS v4](https://img.shields.io/badge/Tailwind%20CSS-v4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React 19](https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS v4](https://img.shields.io/badge/Tailwind%20CSS%20v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### ⚙️ Linguagens Backend & No-Code
+#### ⚙️ Linguagens Backend & Engenharia No-Code
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bubble.io](https://img.shields.io/badge/Bubble.io-No--Code-000000?style=for-the-badge&logo=bubble)
+![Bubble.io](https://img.shields.io/badge/Bubble.io-000000?style=for-the-badge&logo=bubble&logoColor=6112FF)
 
-#### 🗄️ Banco de Dados & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+#### 🗄️ Infraestrutura, Cloud & Bancos de Dados
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 ### 📂 Portfólio de Projetos (Os 6 Pilares)
 
-#### 🚀 Desenvolvimento Full-Stack & No-Code
+#### 🚀 Desenvolvimento Full-Stack & Aplicações Robustas
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **1. Sabado Gerador de QR Virtual** | Plataforma premium com controle de voz (Web Speech API), React 19, Tailwind v4 e persistência no Firebase. | [Ver Web App](https://ai.studio/apps/b44818c6-d548-4993-b636-1955fe818478) / [Código Fonte](https://github.com/eduardotorres672/Gerador-de-Qr-code.git) |
-| **2. Gestão e Auditoria de Orçamentos** | Sistema No-Code (Bubble.io) com regras de segurança rígidas *Server-Side* e logs imutáveis para auditoria financeira. | [Ver Documentação](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
+| **1. Sabado Gerador de QR Virtual** | Web App premium com controle de voz por API nativa, React 19, Tailwind v4 e persistência em tempo real no Cloud Firestore. | [Ver Web App](https://ai.studio/apps/b44818c6-d548-4993-b636-1955fe818478) / [Código Fonte](https://github.com/eduardotorres672/Gerador-de-Qr-code.git) |
+| **2. Gestão e Auditoria de Orçamentos** | Engenharia lógica desenvolvida em Bubble.io com regras rígidas de segurança *Server-Side* e logs imutáveis de aprovação financeira. | [Ver Documentação](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
 
-#### 🧠 Inteligência Artificial, Engenharia de Prompt & Ética
+#### 🧠 Inteligência Artificial, Engenharia de Prompt & Governança Ética
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **3. Classificador & Mitigação de Viés** | Modelo preditivo no Teachable Machine focado na análise de vieses algorítmicos e pipeline *Human-in-the-Loop*. | [Testar Modelo](https://teachablemachine.withgoogle.com/models/ZTuOxbPfz/) |
-| **4. Batalha de Modelos (XML)** | Investigação empírica de consumo de tokens e fidelidade estrutural de LLMs usando marcações isoladas em XML. | [Ver Relatório](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
-| **5. Geração de Imagens & Personas** | Framework de engenharia de prompt dividido em Persona, Contexto e Restrições para consistência semântica e estética. | [Ver Framework](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
-| **6. Manifesto de Engenharia Ética** | Proposta de governança e proteção de autoria contra raspagem de dados, definindo o limiar entre estudo e plágio de IA. | [Ler Manifesto](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
+| **3. Classificador & Mitigação de Viés** | Visão computacional no Teachable Machine focado na análise de vieses algorítmicos e pipeline ético *Human-in-the-Loop*. | [Testar Modelo](https://teachablemachine.withgoogle.com/models/ZTuOxbPfz/) |
+| **4. Batalha de Modelos (XML)** | Estudo comparativo e empírico de consumo de tokens e fidelidade de layout entre LLMs utilizando marcações estruturadas em XML. | [Ver Relatório](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
+| **5. Geração de Imagens & Personas** | Framework de engenharia de prompt baseado em restrições e contextos isolados para garantia de consistência semântica e estética. | [Ver Framework](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
+| **6. Manifesto de Engenharia Ética** | Artigo de governança sobre a fronteira entre estudo e plágio em IA, com foco em técnicas de proteção contra raspagem indesejada. | [Ler Manifesto](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
 
 ---
 ### 🏗 Estrutura do Repositório
-Abaixo, a organização padrão utilizada para garantir a navegabilidade do ecossistema:
+Organização padronizada do ecossistema para otimização da navegabilidade:
 
-- `root/`: Arquivo de apresentação principal (`README.md`).
-- `/documentos/`: Pasta destinada a armazenar os relatórios de pesquisa, especificações e manifestos do portfólio.
+- `root/`: Ponto de entrada e arquivo de apresentação principal (`README.md`).
+- `/documentos/`: Diretório dedicado ao armazenamento de relatórios técnicos, manifestos e especificações de arquitetura.
