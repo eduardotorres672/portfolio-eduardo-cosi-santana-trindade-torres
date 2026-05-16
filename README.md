@@ -4,7 +4,7 @@
 ---
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Cosi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cosi-3935a7344)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardocosi1810@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Repositório--Portfólio-red?style=for-the-badge&logo=github)](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git)
 
 ---
@@ -52,19 +52,9 @@ Estudante de Análise e Desenvolvimento de Sistemas na **UNICID** (previsão de 
 | **6. Manifesto de Engenharia Ética** | Artigo de governança sobre a fronteira entre estudo e plágio em IA, com foco em técnicas de proteção contra raspagem indesejada. | [Ler Manifesto](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
 
 ---
-### 💼 Experiência Profissional
+### 🎯 Objetivos de Desenvolvimento & Próximos Passos
+Frentes nas quais pretendo aprofundar meus conhecimentos e aplicar em novos projetos técnicos:
 
-**Auxiliar Administrativo — AS Brindes** *(Março/2025 - Atual)*
-* Gestão e controle sistemático de estoque, assegurando a acuracidade dos registros e a integridade dos dados de inventário.
-* Registro e monitoramento de movimentação de produtos, controlando entradas, saídas e rastreabilidade de mercadorias.
-* Suporte operacional a processos administrativos, contribuindo para a eficiência dos fluxos internos e cumprimento de prazos.
-* Estruturação e manutenção de bases de dados e registros organizacionais, garantindo a confiabilidade e acessibilidade das informações.
-* Elaboração e atualização de planilhas de controle operacional utilizando Excel para acompanhamento de indicadores e relatórios internos.
-* Comunicação e alinhamento com equipes internas para resolução de pendências e garantia da continuidade operacional.
-
----
-### 🏗 Estrutura do Repositório
-Organização padronizada do ecossistema para otimização da navegabilidade:
-
-- `root/`: Ponto de entrada e arquivo de apresentação principal (`README.md`).
-- `/documentos/`: Diretório dedicado ao armazenamento de relatórios técnicos, manifestos e especificações de arquitetura.
+- **Evolução em Engenharia de Dados:** Expandir o domínio em queries complexas de SQL e aprofundar as conexões com pipelines em Python.
+- **Visualização de Indicadores:** Criar dashboards dinâmicos integrando bancos de dados para facilitar a análise de performance de produtos.
+- **IA e Automação:** Continuar a desenvolver frameworks éticos e práticos que unam o desenvolvimento tradicional com inteligências artificiais focadas em eficiência operativa.
