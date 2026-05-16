@@ -9,11 +9,11 @@
 
 ---
 ### 👨‍💻 Sobre
-Atualmente cursando Análise e Desenvolvimento de Sistemas na **UNICID** e formado como Técnico em ADS pela **Alura**. Sou apaixonado por resolver problemas complexos através da tecnologia, com foco em Engenharia de Software Full Stack, Prompt Engineering e arquitetura de sistemas seguros e responsivos.
+Atualmente cursando Análise e Desenvolvimento de Sistemas na **UNICID** e formado como Técnico em ADS pela **Alura**. Sou focado em resolver problemas complexos através de engenharia de software, com forte interesse em Desenvolvimento Full Stack, Engenharia de Prompt e arquitetura de sistemas seguros e responsivos.
 
 * **Habilidades Técnicas:** React 19, TypeScript 5, Tailwind CSS v4, Node.js, Firebase (Auth/Firestore), Python, Java, MySQL e Bubble.io.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico e forte capacidade de análise transacional.
-* **Experiência Relevante:** Atuo como Auxiliar Administrativo na *AS Brindes*, onde aplico lógica estruturada para padronização de processos analíticos, modelação de relatórios complexos via Excel/Tabelas Dinâmicas e governança preventiva de inventários.
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico e capacidade de análise de dados.
+* **Experiência Relevante:** Atuo como Auxiliar Administrativo na *AS Brindes*, onde aplico lógica estruturada para padronização de processos operacionais, modelação de relatórios complexos via Excel/Tabelas Dinâmicas e governança de inventários.
 
 ---
 ### 🛠 Minhas Ferramentas Favoritas
@@ -39,16 +39,16 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na **UNICID** e forma
 #### 🚀 Desenvolvimento Full-Stack & No-Code
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sabado Gerador de QR Virtual** | Plataforma premium com controle de voz (Web Speech API), React 19, Tailwind v4 e persistência no Firebase. | [Ver Web App](https://ai.studio/apps/b44818c6-d548-4993-b636-1955fe818478) / [Código Fonte](https://github.com/eduardotorres672/Gerador-de-Qr-code.git) |
-| **Gestão e Auditoria de Orçamentos** | Sistema No-Code (Bubble.io) com regras de segurança rígidas *Server-Side* e logs imutáveis para auditoria financeira. | [Ver Documentação](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
+| **1. Sabado Gerador de QR Virtual** | Plataforma premium com controle de voz (Web Speech API), React 19, Tailwind v4 e persistência no Firebase. | [Ver Web App](https://ai.studio/apps/b44818c6-d548-4993-b636-1955fe818478) / [Código Fonte](https://github.com/eduardotorres672/Gerador-de-Qr-code.git) |
+| **2. Gestão e Auditoria de Orçamentos** | Sistema No-Code (Bubble.io) com regras de segurança rígidas *Server-Side* e logs imutáveis para auditoria financeira. | [Ver Documentação](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
 
 #### 🧠 Inteligência Artificial, Engenharia de Prompt & Ética
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Classificador & Mitigação de Viés** | Modelo preditivo no Teachable Machine focado na análise de vieses algorítmicos e pipeline *Human-in-the-Loop*. | [Testar Modelo](https://teachablemachine.withgoogle.com/models/ZTuOxbPfz/) |
-| **Batalha de Modelos (XML)** | Investigação empírica de consumo de tokens e fidelidade estrutural de LLMs usando marcações isoladas em XML. | [Ver Relatório](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
-| **Geração de Imagens & Personas** | Framework de engenharia de prompt dividido em Persona, Contexto e Restrições para consistência semântica e estética. | [Ver Framework](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
-| **Manifesto de Engenharia Ética** | Proposta de governança e proteção de autoria contra raspagem de dados, definindo o limiar entre estudo e plágio de IA. | [Ler Manifesto](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
+| **3. Classificador & Mitigação de Viés** | Modelo preditivo no Teachable Machine focado na análise de vieses algorítmicos e pipeline *Human-in-the-Loop*. | [Testar Modelo](https://teachablemachine.withgoogle.com/models/ZTuOxbPfz/) |
+| **4. Batalha de Modelos (XML)** | Investigação empírica de consumo de tokens e fidelidade estrutural de LLMs usando marcações isoladas em XML. | [Ver Relatório](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
+| **5. Geração de Imagens & Personas** | Framework de engenharia de prompt dividido em Persona, Contexto e Restrições para consistência semântica e estética. | [Ver Framework](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
+| **6. Manifesto de Engenharia Ética** | Proposta de governança e proteção de autoria contra raspagem de dados, definindo o limiar entre estudo e plágio de IA. | [Ler Manifesto](https://github.com/eduardotorres672/portfolio-eduardo-cosi-santana-trindade-torres.git) |
 
 ---
 ### 🏗 Estrutura do Repositório
