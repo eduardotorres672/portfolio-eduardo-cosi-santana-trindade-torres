@@ -18,9 +18,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou **Eduardo Cosi**, estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID** e técnico formado pela **Alura**. Atuo no desenvolvimento de software focado no ecossistema Full Stack, Engenharia de Prompt aplicada e arquitetura de sistemas seguros e responsivos.
+Olá! Sou **Eduardo Cosi**, estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID** e técnico formado pela **Alura**. Atuo no desenvolvimento de software focado no ecossistema Full Stack, Engenharia de Prompt aplicada e arquitetura de sistemas seguros, responsivos e acessíveis.
 
-Minha filosofia de engenharia une lógica de programação rigorosa com uma reflexão crítica sobre governança tecnológica e autonomia da inteligência artificial. Além disso, possuo uma sólida bagagem administrativa focada em otimização de processos operacionais, análise transacional e integridade de base de dados.
+Minha filosofia de engenharia une lógica de programação rigorosa com uma reflexão crítica sobre governança tecnológica, inteligência artificial e privacidade de dados. Além disso, possuo uma sólida bagagem administrativa focada em otimização de processos operacionais, análise transacional e integridade de bases de dados relacionais e NoSQL.
 
 > *"Focado em transformar lógica abstrata em soluções de software robustas e o aprendizado constante em inovação ética."*
 
@@ -42,28 +42,44 @@ Minha filosofia de engenharia une lógica de programação rigorosa com uma refl
 
 ---
 
-## 📂 Ecossistema de Projetos e Engenharia
+## 📂 Ecossistema de Projetos (Os 6 Pilares)
 
-Abaixo estão listados os projetos desenvolvidos, integrando os ambientes de produção funcionais e as especificações de arquitetura:
+Abaixo estão detalhados os 6 projetos e frentes de engenharia que consolidam a minha evolução técnica, unindo aplicações em produção com investigações avançadas em IA e arquitetura:
 
 ### 🚀 1. Sabado Gerador de QR Virtual (Full-Stack & IA)
-Uma plataforma web avançada e de alta performance para a criação, customização estética e persistência na nuvem de códigos QR dinâmicos.
-* **Mecanismo Técnico:** Desenvolvido com React 19, Tailwind CSS v4 e TypeScript. Utiliza a biblioteca `qr-code-styling` para renderização vetorial refinada.
-* **Destaques de Engenharia:** Integração com Firebase Auth para controle de sessões e Cloud Firestore para histórico persistente de designs. Inclui recursos de acessibilidade como controle e ajuste de interface através de comandos de voz nativos (Web Speech API).
-* **🔗 Links Operacionais:** * [Aceder à Aplicação Web (Google AI Studio)](https://ai.studio/apps/b44818c6-d548-4993-b636-1955fe818478)
+Uma plataforma web premium e de alta performance para a criação, customização estética e persistência na nuvem de códigos QR dinâmicos.
+* **Mecanismo Técnico:** Desenvolvido com React 19, Tailwind CSS v4 e TypeScript. Utiliza a biblioteca `qr-code-styling` para renderização vetorial refinada e Framer Motion para animações fluidas de profundidade.
+* **Destaques de Engenharia:** Integração com Firebase Auth para controle de sessões e Cloud Firestore para histórico persistente de designs. Inclui recursos avançados de acessibilidade como controle e ajuste de interface através de comandos de voz nativos (Web Speech API).
+* **🔗 Links Operacionais:**
+  * [Aceder à Aplicação Web (Google AI Studio)](https://ai.studio/apps/b44818c6-d548-4993-b636-1955fe818478)
   * [Repositório do Código Fonte (GitHub)](https://github.com/eduardotorres672/Gerador-de-Qr-code.git)
 
-### 🧠 2. Classificador Inteligente e Mitigação de Viés (Teachable Machine)
-Estudo prático de visão computacional voltado para a análise de vieses algorítmicos em modelos preditivos industriais.
+### 🔒 2. Sistema de Gestão e Auditoria de Orçamentos (Bubble.io)
+Arquitetura lógica e transacional voltada para ambientes corporativos que demandam controle estrito de fluxos financeiros e conformidade.
+* **Mecanismo Técnico:** Modelação relacional normalizada com entidades desacopladas (`Budget`, `BudgetActivityLog`, `BudgetItem`) construída através do motor do Bubble.io.
+* **Destaques de Engenharia:** Proteção contra vazamento de payloads e interceptação de tráfego de rede no lado do cliente através de regras de privacidade em nível de servidor (*Server-Side Privacy Rules*), acionadas sob a diretiva `Creator is Current User`. Implementação de históricos imutáveis de atividades para auditoria fiscal de aprovações e rejeições via Popups dinâmicos.
+
+### 🧠 3. Classificador Inteligente e Mitigação de Viés (Teachable Machine)
+Estudo prático de visão computacional voltado para a análise de vieses algorítmicos e ética em modelos preditivos comerciais.
 * **Mecanismo Técnico:** Treinamento de redes neurais convolucionais utilizando a infraestrutura do Teachable Machine da Google.
-* **Destaques de Engenharia:** Desenvolvimento de um pipeline conceitual *Human-in-the-Loop* voltado para a curadoria, auditoria e balanceamento de datasets assétricos antes da fase de compilação dos pesos, mitigando falsos positivos e garantindo diversidade de representação estatística.
+* **Destaques de Engenharia:** Desenvolvimento de um pipeline conceitual *Human-in-the-Loop* focado na curadoria, auditoria e balanceamento de datasets assimétricos pré-treino, mitigando a ocorrência de falsos positivos/negativos e garantindo a diversidade de representação estatística da realidade real.
 * **🔗 Links Operacionais:**
   * [Testar Modelo de Inferência (Teachable Machine)](https://teachablemachine.withgoogle.com/models/ZTuOxbPfz/)
 
-### 🔒 3. Sistema de Gestão e Auditoria de Orçamentos (Bubble.io Engine)
-Arquitetura lógica e transacional voltada para ambientes corporativos que demandam controle estrito de fluxos financeiros.
-* **Mecanismo Técnico:** Desenvolvido através do motor No-Code do Bubble.io com lógica estrita de relacionamentos normalizados.
-* **Destaques de Engenharia:** Proteção nativa contra vazamento de payloads e interceptação de tráfego de rede no lado do cliente através de regras de privacidade em nível de servidor (*Server-Side Privacy Rules*), acionadas sob a diretiva `Creator is Current User`. Implementação de históricos imutáveis de atividades (*BudgetActivityLog*) para auditoria fiscal de aprovações e rejeições.
+### 📝 4. Engenharia de Prompt Avançada: Batalha de Modelos (XML)
+Investigação empírica com o objetivo de avaliar a capacidade de interpretação estruturada e consumo de tokens em diferentes Large Language Models (LLMs).
+* **Mecanismo Técnico:** Construção de prompts avançados e isolados utilizando tags estruturadas em XML para forçar os modelos a gerarem páginas HTML5 Single Page estritas.
+* **Destaques de Engenharia:** Análise comparativa profunda documentando comportamento, precisão do CSS interno, bugs de sintaxe e volumetria de tokens gastos entre as principais ferramentas do mercado (ChatGPT, Gemini, Claude, Qwen, DeepSeek, Grok, Maritaca), com destaque para o desempenho do Claude na interpretação de marcações complexas.
+
+### 🎨 5. Engenharia de Prompt Aplicada: Geração de Imagens & Personas
+Desenvolvimento de frameworks estruturados de contextualização para geração de ativos digitais e escrita criativa orientada a personas históricas.
+* **Mecanismo Técnico:** Criação de pipelines de prompts divididos estritamente em *Persona, Contexto, Instrução, Restrições e Formato de Saída*.
+* **Destaques de Engenharia:** Refinamento iterativo de imagens conceituais complexas (ex: Pintura barroca de um astronauta em Marte) e engenharia de texto aplicada para simular negociações diplomáticas complexas com a Coroa Portuguesa colonial, testando os limites de consistência estética e semântica das IAs generativas.
+
+### 📐 6. Engenharia de Software Ética e Manifesto de Propriedade Intelectual
+Desenvolvimento de uma metodologia de governança para proteger o trabalho do desenvolvedor humano e regular a automação gerada por Inteligência Artificial.
+* **Mecanismo Técnico:** Criação de um framework fundamentado em 4 diretrizes principais para repositórios modernos.
+* **Destaques de Engenharia:** Definição do limiar exato onde a engenharia reversa assistida por IA deixa de ser estudo e se torna plágio (a transição do *entender* para o *copiar*). Proposta de modelos que envolvem o registro antecipado de autoria para alimentar indexadores de *scrapers*, preservação do toque humano em UX/UI, divisão inteligente de tarefas (IA focada em boilerplates/testes e Humanos focados em inovação) e politização do lucro justo de royalties de código.
 
 ---
 
@@ -86,9 +102,9 @@ Arquitetura lógica e transacional voltada para ambientes corporativos que deman
 
 **Auxiliar Administrativo — AS Brindes** *(Período Atual)*
 * Controle de inventário semanal apoiado em análise estocástica e consolidação de dados de entrada/saída.
-* Análise e tratamento de relatórios operacionais complexos utilizando Microsoft Excel avançado e Tabelas Dinâmicas.
+* Análise, tratamento e modelação de relatórios operacionais complexos utilizando Microsoft Excel avançado e Tabelas Dinâmicas.
 * Padronização de processos analíticos e documentação corporativa para suporte estratégico à tomada de decisão de alta gerência.
-* Monitoramento e registro estruturado de divergências e movimentação logística de insumos industriais.
+* Monitoramento preventivo de divergências operacionais e registro estruturado da movimentação logística de insumos industriais.
 
 ---
 
