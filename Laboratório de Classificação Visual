@@ -1,0 +1,13 @@
+https://teachablemachine.withgoogle.com/models/ZTuOxbPfz/
+
+
+O viés em algoritmos surge quando eles aprendem a partir de dados limitados ou
+desbalanceados. É como tentar entender o mundo olhando por uma janela muito pequena:
+o que aparece ali parece ser tudo o que existe.
+Quando um sistema invisibiliza ou classifica alguém de forma errada, o impacto é pessoal e
+profundo. A pessoa pode se sentir ignorada, desvalorizada e injustiçada, como se nao fosse
+reconhecida de verdade
+Uma forma de reduzir o viés é incluir humanos no processo de curadoria dos dados. Antes
+de treinar o modelo, uma equipe revisa e ajusta o conjunto de dados, corrigindo
+desequilíbrios e garantindo mais diversidade. Assim, o algoritmo aprende a partir de uma
+base mais justa e representativa da realidade.
